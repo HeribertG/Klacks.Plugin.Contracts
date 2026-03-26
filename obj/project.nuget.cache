@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qu7sHvgnivk=",
+  "success": true,
+  "projectFilePath": "C:\\SourceCode\\Klacks.Plugin.Contracts\\Klacks.Plugin.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hgasp\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.0-preview.3.25171.6\\microsoft.entityframeworkcore.10.0.0-preview.3.25171.6.nupkg.sha512",
+    "C:\\Users\\hgasp\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.0-preview.3.25171.6\\microsoft.entityframeworkcore.abstractions.10.0.0-preview.3.25171.6.nupkg.sha512"
+  ],
+  "logs": []
+}

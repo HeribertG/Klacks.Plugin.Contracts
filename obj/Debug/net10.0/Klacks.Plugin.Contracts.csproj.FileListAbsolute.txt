@@ -1,0 +1,12 @@
+C:\SourceCode\Klacks.Plugin.Contracts\obj\Debug\net10.0\Klacks.Plugin.Contracts.csproj.AssemblyReference.cache
+C:\SourceCode\Klacks.Plugin.Contracts\obj\Debug\net10.0\Klacks.Plugin.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceCode\Klacks.Plugin.Contracts\obj\Debug\net10.0\Klacks.Plugin.Contracts.AssemblyInfoInputs.cache
+C:\SourceCode\Klacks.Plugin.Contracts\obj\Debug\net10.0\Klacks.Plugin.Contracts.AssemblyInfo.cs
+C:\SourceCode\Klacks.Plugin.Contracts\obj\Debug\net10.0\Klacks.Plugin.Contracts.csproj.CoreCompileInputs.cache
+C:\SourceCode\Klacks.Plugin.Contracts\bin\Debug\net10.0\Klacks.Plugin.Contracts.deps.json
+C:\SourceCode\Klacks.Plugin.Contracts\bin\Debug\net10.0\Klacks.Plugin.Contracts.dll
+C:\SourceCode\Klacks.Plugin.Contracts\bin\Debug\net10.0\Klacks.Plugin.Contracts.pdb
+C:\SourceCode\Klacks.Plugin.Contracts\obj\Debug\net10.0\Klacks.Plugin.Contracts.dll
+C:\SourceCode\Klacks.Plugin.Contracts\obj\Debug\net10.0\refint\Klacks.Plugin.Contracts.dll
+C:\SourceCode\Klacks.Plugin.Contracts\obj\Debug\net10.0\Klacks.Plugin.Contracts.pdb
+C:\SourceCode\Klacks.Plugin.Contracts\obj\Debug\net10.0\ref\Klacks.Plugin.Contracts.dll
