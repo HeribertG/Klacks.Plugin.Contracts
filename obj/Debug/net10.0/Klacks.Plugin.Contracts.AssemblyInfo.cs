@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Klacks.Plugin.Contracts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efd49a076db171096864e2ddf0ccda9108b0dfd6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1679132983598d1f4f7e6e29b2b54b5d1cfe38ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("Klacks.Plugin.Contracts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Klacks.Plugin.Contracts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
