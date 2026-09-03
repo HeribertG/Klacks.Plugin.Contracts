@@ -3,3 +3,11 @@ obj/
 *.user
 *.suo
 .vs/
+/.build-etappe5a/Debug/net10.0/Klacks.Plugin.Contracts.deps.json
+/.build-etappe5a/Debug/net10.0/Klacks.Plugin.Contracts.dll
+/.build-etappe5a/Debug/net10.0/Klacks.Plugin.Contracts.pdb
+/obj-gaps/Klacks.Plugin.Contracts.csproj.nuget.dgspec.json
+/obj-gaps/Klacks.Plugin.Contracts.csproj.nuget.g.props
+/obj-gaps/Klacks.Plugin.Contracts.csproj.nuget.g.targets
+/obj-gaps/project.assets.json
+/obj-gaps/project.nuget.cache
