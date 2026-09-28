@@ -1,4 +1,4 @@
-// Copyright (c) Heribert Gasparoli Private. All rights reserved.
+// Copyright (c) Heribert Gasparoli. SPDX-License-Identifier: AGPL-3.0-only
 
 /// <summary>
 /// Main interface for feature plugins to register with the host application.

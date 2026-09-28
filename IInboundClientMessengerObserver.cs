@@ -1,4 +1,4 @@
-// Copyright (c) Heribert Gasparoli Private. All rights reserved.
+// Copyright (c) Heribert Gasparoli. SPDX-License-Identifier: AGPL-3.0-only
 
 /// <summary>
 /// Lets the core react when a known CLIENT (not an app user) sends a messenger message. Lives here
