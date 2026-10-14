@@ -15,4 +15,10 @@ public record SkillExecutionContext
     public string? CurrentPage { get; init; }
     public IReadOnlyList<Guid>? SelectedEntityIds { get; init; }
     public string? UserTimezone { get; init; }
+
+    /// <summary>
+    /// The facts the user was shown and confirmed, copied by the host from its own context; null when the call is not the
+    /// confirmed replay of a preview. A skill that shows a server preview refuses to act without it and never sets it.
+    /// </summary>
+    public PluginConfirmedBinding? ConfirmedBinding { get; init; }
 }
